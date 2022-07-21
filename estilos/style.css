@@ -1,4 +1,6 @@
-{
+* {
     font-family: 'Arial Narrow';
-    font-size: 32px;
-}
+    font-size: 44px;
+    font-style: italic;
+    background-color: gainsboro;
+}   
